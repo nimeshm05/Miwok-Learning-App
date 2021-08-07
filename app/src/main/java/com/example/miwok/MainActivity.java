@@ -1,12 +1,15 @@
 package com.example.miwok;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.viewpager.widget.ViewPager;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.miwok.R.id;
+
+import static com.example.miwok.R.id.*;
 
 public class MainActivity extends AppCompatActivity {
 
